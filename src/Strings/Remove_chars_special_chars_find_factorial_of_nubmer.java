@@ -1,6 +1,6 @@
 package Strings;
 
-public class Str {
+public class Remove_chars_special_chars_find_factorial_of_nubmer {
     public static void main(String[] args) {
 
         String str = "dwhpr4na$";
